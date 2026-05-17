@@ -1,0 +1,29 @@
+Software Engineer Job Description
+
+Role Overview:
+We are looking for a passionate Software Engineer to design, develop, and install software solutions. The successful candidate will be able to build high-quality, innovative, and fully performing software in compliance with coding standards and technical design.
+
+Responsibilities:
+- Execute full software development life cycle (SDLC)
+- Develop flowcharts, layouts, and documentation to identify requirements and solutions
+- Write well-designed, testable code
+- Produce specifications and determine operational feasibility
+- Integrate software components into a fully functional software system
+- Develop software verification plans and quality assurance procedures
+- Document and maintain software functionality
+- Troubleshoot, debug, and upgrade existing systems
+- Deploy programs and evaluate user feedback
+- Comply with project plans and industry standards
+- Ensure software is updated with latest features
+
+Requirements and Skills:
+- Proven work experience as a Software Engineer or Software Developer
+- Experience designing interactive applications
+- Ability to develop software in Python, Java, or C++
+- Experience with web frameworks like Django, Flask, or React
+- Excellent knowledge of Relational Databases, SQL, and ORM technologies
+- Experience with test-driven development
+- Proficiency in software engineering tools
+- Familiarity with continuous integration (CI/CD), Docker, and Git
+- Ability to document requirements and specifications
+- BSc degree in Computer Science, Engineering, or relevant field
