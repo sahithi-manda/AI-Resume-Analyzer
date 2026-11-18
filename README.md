@@ -6,7 +6,7 @@ A comprehensive, AI-powered web application built with Python and Streamlit to a
 
 - **PDF Resume Upload:** Easily upload your resume in PDF format.
 - **NLP Skill Extraction:** Automatically detects technical and soft skills using Natural Language Processing (spaCy).
-- **ATS Score System:** Calculates an ATS compatibility score based on content length, sections, and exact job description matching.
+- **Match Score:** With a job description, the score is the TF-IDF cosine similarity between resume and JD (scikit-learn), plus a fixed 20-point offset. Without one, a heuristic scores length and the presence of Experience, Education and Skills sections. It approximates keyword overlap; real applicant tracking systems each score differently.
 - **Job Description Matching:** Compare your resume directly against a job description to find out match percentage and missing keywords.
 - **AI Suggestions:** Receive smart, actionable suggestions to improve your resume structure, action verbs, and metrics.
 - **Job Category Prediction:** Automatically predicts the most suitable job role based on your resume content.
